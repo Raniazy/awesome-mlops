@@ -3,7 +3,7 @@
 A list of my favorite findings on MLOps
 ---
 - [MLOps Awesome List](#mlops-awesone-list)
-  - [📰 Articles](#-articles)
+  - [📰 Articles](#articles)
   - [🔧 Tools](#-tools)
   - [💻 Code](#code)
   - [:briefcase: Career](#briefcase-career)
