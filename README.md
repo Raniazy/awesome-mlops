@@ -48,3 +48,9 @@ A list of my favorite findings on MLOps
 ## videos 
 - [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI](https://www.youtube.com/watch?v=06-AZXmwHjo)
 - [[Explained] What is MLOps | Getting started with ML Engineering](https://www.youtube.com/watch?v=0jLdp2Tl0sM)
+
+# Contribution
+
+I'm always thrilled to receive PRs, and do my best to process them as fast as I can.
+Not sure if that typo/feedback is worth a pull request ? Do it! I will appreciate it.
+
