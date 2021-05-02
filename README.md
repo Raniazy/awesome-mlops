@@ -4,12 +4,12 @@ A list of my favorite findings on MLOps
 ---
 - [MLOps Awesome List](#mlops-awesone-list)
   - [📰 Articles](#articles)
-  - [🔧 Tools](#-tools)
+  - [🔧 Tools](#tools)
   - [💻 Code](#code)
   - [:briefcase: Career](#briefcase-career)
-  - [📺 Videos](#-videos)
-  - [📚 Books](#-books)
-  - [💖 Admired Examples](#-admired-examples)
+  - [📺 Videos](#videos)
+  - [📚 Books](#books)
+  - [💖 Admired Examples](#admired-examples)
   - [Courses](#courses)
   - [🐦Twitter](#twitter)
   - [:octocat: Github](#github)
@@ -36,3 +36,15 @@ A list of my favorite findings on MLOps
 ## Github
 - [Machine Learning Ops](https://mlops.githubapp.com/)
 - [BodyWork for MLOps](https://github.com/bodywork-ml/bodywork-core)
+
+## tools 
+- [Kubeflow](https://www.kubeflow.org/) 
+- [Mlflow](https://mlflow.org/) 
+- [Guild AI](https://guild.ai/) 
+- [Comet](https://www.comet.ml/site/) 
+- [ModelDB](https://github.com/VertaAI/modeldb/)
+- [Neptune AI](https://neptune.ai/)
+
+## videos 
+- [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI](https://www.youtube.com/watch?v=06-AZXmwHjo)
+- [[Explained] What is MLOps | Getting started with ML Engineering](https://www.youtube.com/watch?v=0jLdp2Tl0sM)
